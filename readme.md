@@ -1,4 +1,5 @@
 These labs were completed as part of the Introduction to Networking course at the university of Toronto. Following are snapshots indicating analysis of packets associated with *HTTP, TCP, UDP, ICMP and Ethernet*.  
+  
 *HTTP*  
 ![image](https://github.com/user-attachments/assets/f3b88838-7440-417a-b84f-f71b4698dee4)
 
